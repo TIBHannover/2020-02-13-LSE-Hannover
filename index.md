@@ -95,15 +95,5 @@ We will use this <a href="{{page.collaborative_notes}}">collaborative document</
 
 ## Setup
 
-<p>
-  To participate in a Data Carpentry workshop,
-  you will need access to the software described below.
-  In addition, you will need an up-to-date web browser.
-</p>
-<p>
-  We maintain a list of common issues that occur during installation as a reference for instructors
-  that may be useful on the
-  <a href = "{{site.swc_github}}/workshop-template/wiki/Configuration-Problems-and-Solutions">Configuration Problems and Solutions wiki page</a>.
-</p>
-
-{% include dc/setup.html %}
+Please find those details on [DataCarpentry.org/python-ecology-lesson/setup](https://datacarpentry.org/python-ecology-lesson/setup.html).
+In addition, you will need an up-to-date web browser.
