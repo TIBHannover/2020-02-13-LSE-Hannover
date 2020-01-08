@@ -15,8 +15,8 @@ email: ["carpentries@tib.eu"]
 collaborative_notes: https://hackmd.io/rwJ5Mgo8SPidtWDcORdNZQ?edit
 ---
 
+## General Information
 
-<h2 id="general">General Information</h2>
 {% include dc/who.html %}
 
 <p id="where">
@@ -64,9 +64,9 @@ collaborative_notes: https://hackmd.io/rwJ5Mgo8SPidtWDcORdNZQ?edit
   and briefly explain your motivation to attend the workshop. We have about 5 seats for non-LSE attendees and will inform you about our selection on Jan. 17th.
 </p>
 
-<hr/>
+---
 
-<h2 id="code-of-conduct">Code of Conduct</h2>
+## Code of Conduct
 
 <p>
 Everyone who participates in Carpentries activities is required to conform to the <a href="https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html">Code of Conduct</a>.This document also outlines how to report an incident if needed.
@@ -75,30 +75,28 @@ Everyone who participates in Carpentries activities is required to conform to th
 <p class="text-center">
 <button type="button" class="btn btn-info">Report a Code of Conduct Incident</button>
 </p>
-<hr/>
 
+---
 
+## Collaborative Notes
 
-<h2 id="collaborative_notes">Collaborative Notes</h2>
-
-<p>
 We will use this <a href="{{page.collaborative_notes}}">collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code.
-</p>
-<hr/>
 
-<h2 id="schedule">Schedule</h2>
+---
+
+## Schedule
 
 {% include dc/schedule.html %}
-<hr/>
 
+---
 
-<h2 id="syllabus">Syllabus</h2>
+## Syllabus
 
 {% include dc/syllabus.html %}
-<hr/>
 
+---
 
-<h2 id="setup">Setup</h2>
+## Setup
 
 <p>
   To participate in a Data Carpentry workshop,
