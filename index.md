@@ -67,11 +67,9 @@ collaborative_notes: https://hackmd.io/rwJ5Mgo8SPidtWDcORdNZQ?edit
 
 ---
 
-## Code of Conduct
+## Schedule
 
-<p>
-Everyone who participates in Carpentries activities is required to conform to the <a href="https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html">Code of Conduct</a>.This document also outlines how to report an incident if needed.
-</p>
+{% include dc/schedule.html %}
 
 ---
 
@@ -81,13 +79,9 @@ We will use this <a href="{{page.collaborative_notes}}">collaborative document</
 
 ---
 
-## Schedule
+## Code of Conduct
 
-{% include dc/schedule.html %}
-
----
-
-
+Everyone who participates in Carpentries activities is required to conform to the <a href="https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html">Code of Conduct</a>.This document also outlines how to report an incident if needed.
 
 ---
 
