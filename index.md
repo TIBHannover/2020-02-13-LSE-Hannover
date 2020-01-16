@@ -67,7 +67,7 @@ collaborative_notes: https://hackmd.io/rwJ5Mgo8SPidtWDcORdNZQ?edit
 
 ---
 
-## Schedule
+<h2 id="schedule">Zeitplan</h2>
 
 {% include dc/schedule.html %}
 
