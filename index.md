@@ -1,7 +1,7 @@
 ---
 carpentry: "dc"
 venue: "Leibniz School of Education"
-address: "Raum 332 < Gebäude 2705 < Nordstadt < Am Kleinen Felde 30, 30167 Hannover"
+address: "Am Kleinen Felde 30, 30167 Hannover > Raum 332 (Gebäude 2705)"
 country: "Germany"
 language: "de"
 latitude: "52.38600"
