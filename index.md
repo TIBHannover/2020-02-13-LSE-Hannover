@@ -62,7 +62,7 @@ collaborative_notes: https://hackmd.io/rwJ5Mgo8SPidtWDcORdNZQ?edit
   <strong>Contact</strong>:
   Please <a href="https://studip.uni-hannover.de/dispatch.php/course/details?cid=571aecad2695554c97406afc7411a632">register yourself via Stud.IP</a> if possible. If not, please email
   <a href='mailto:{{page.email}}'>{{page.email}}</a>
-  and briefly explain your motivation to attend the workshop. We have about 5 seats for non-LSE attendees and will inform you about our selection on Jan. 17th.
+  and briefly explain your motivation to attend the workshop. We have about 5 seats for non-LSE attendees and will inform you about our selection on Jan. 24th.
 </p>
 
 ---
