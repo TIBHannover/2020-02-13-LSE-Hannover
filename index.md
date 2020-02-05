@@ -87,5 +87,5 @@ Everyone who participates in Carpentries activities is required to conform to th
 
 ## Setup
 
-Please find those details on [DataCarpentry.org/python-ecology-lesson/setup](https://datacarpentry.org/python-ecology-lesson/setup.html).
+Please find those details on [TIBHannover.GitHub.io/python-ecology-lesson/setup](https://tibhannover.github.io/python-ecology-lesson/setup.html).
 In addition, you will need an up-to-date web browser.
